@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/share/Misc/misc_buz.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-32-generic/scripts/module-common.lds --build-id  -o /mnt/hgfs/share/Misc/misc_buz.ko /mnt/hgfs/share/Misc/misc_buz.o /mnt/hgfs/share/Misc/misc_buz.mod.o

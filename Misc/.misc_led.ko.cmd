@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/share/Over/Misc/misc_led.ko := /opt/FriendlyARM/toolschain/4.5.1/bin/arm-linux-ld -r  -T /opt/FriendlyARM/mini210/linux/linux-3.0.8/scripts/module-common.lds --build-id  -o /mnt/hgfs/share/Over/Misc/misc_led.ko /mnt/hgfs/share/Over/Misc/misc_led.o /mnt/hgfs/share/Over/Misc/misc_led.mod.o
